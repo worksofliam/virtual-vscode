@@ -16,6 +16,7 @@
   "author": "worksofliam",
   "license": "MIT",
   "devDependencies": {
+    "@types/vscode": "^1.103.0",
     "merge-options": "^3.0.4",
     "ts-loader": "^9.4.4",
     "typescript": "^5.8.2",
